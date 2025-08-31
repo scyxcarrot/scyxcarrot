@@ -7,4 +7,4 @@
 
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-cheah-yi-xuan-25aa6333b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seancheahyixuan@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sean-cheah-yi-xuan-25aa6333b/) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/scyxcarrot/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seancheahyixuan@gmail.com) 
