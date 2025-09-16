@@ -1,7 +1,9 @@
 ## Welcome to my GitHub Bio!
-🎓 Currently studying Bachelor of Advanced Computer Science at Monash University <br/>
-💻 I have experience in Python, Java, JavaScript, Kotlin, SQL, HTML and CSS <br/>
-🎮 I like strategic games, drinking tea, working out and maintaining a healthy lifestyle <br/>
+🎓 A Y2S2 Student studying Bachelor of Advanced Computer Science at Monash University <br/>
+💻 I have experience in Python, Java, JavaScript, TypeScript, Kotlin, SQL, HTML and CSS <br/>
+📓 Currently learning Functional Reactive Programming (Haskell) and Theory of Computation <br/>
+🎮 I like playing chess, drinking tea, working out and doing my best to maintain a healthy lifestyle <br/>
+👨‍💻 Open to internship opportunities in software development from Nov 2025 - Feb 2026 (Malaysia) <br/>
 
 [![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyxcarrot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
