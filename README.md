@@ -1,4 +1,5 @@
-## Welcome to my GitHub Bio!
+# Hi there, I'm Sean! 👋
+
 🎓 A Y2S2 Student studying Bachelor of Advanced Computer Science at Monash University <br/>
 💻 I have experience in Python, Java, JavaScript, TypeScript, Kotlin, SQL, HTML and CSS <br/>
 📓 Currently learning Functional Reactive Programming (Haskell) and Theory of Computation <br/>
