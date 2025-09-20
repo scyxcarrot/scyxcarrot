@@ -1,7 +1,6 @@
 # Hi there, I'm Sean! 👋
 
 🎓 A Y2S2 Student studying Bachelor of Advanced Computer Science at Monash University <br/>
-💻 I have experience in Python, Java, JavaScript, TypeScript, Kotlin, SQL, HTML and CSS <br/>
 📓 Currently learning Functional Reactive Programming (Haskell) and Theory of Computation <br/>
 🎮 I like playing chess, drinking tea, working out and doing my best to maintain a healthy lifestyle <br/>
 👨‍💻 Open to internship opportunities in software development from Nov 2025 - Feb 2026 (Malaysia) <br/>
