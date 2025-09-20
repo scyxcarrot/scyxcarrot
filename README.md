@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # Hi there, I'm Sean! 👋
 
 🎓 A Y2S2 Student studying Bachelor of Advanced Computer Science at Monash University <br/>
